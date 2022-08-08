@@ -246,7 +246,7 @@ The custom huts need to be copied in the schematics folder. Once copied, you can
 
 ### How to allow my players to use their own huts' schematics on my server?
 
-You will have to copy them yourself in the schematics folder on the server and restart it.
+You will have to copy them yourself in the schematics folder on the server and restart it. (Reload does not work for schematic!)
 
 ### How to allow my players to use their scanned decoration schematics on my server?
 
